@@ -12,7 +12,6 @@ $(".letter")
         });
     });
 
-
 var zoom_timeline = anime.timeline({
     easing: 'easeInOutExpo',
     duration: 1000,
