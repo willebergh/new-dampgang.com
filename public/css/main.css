@@ -1,0 +1,28 @@
+
+body {
+    background-color: #000;
+}
+
+
+#frame {
+    color: #fff;
+    font-size: 48px;
+    font-family: 'Graduate', cursive;
+
+    position: fixed;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    cursor: default;
+
+    
+}
+
+#dampgang {
+    display: flex;
+    justify-content: center;
+}
+
+#dampgang .letter {
+    display: block;
+}
